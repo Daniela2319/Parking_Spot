@@ -11,7 +11,7 @@ Spring Boot é um framework do ecossistema Spring para construção de aplicativ
 •	Atualizações de versão simplificadas: o Spring Boot gerencia as dependências e atualizações de versão automaticamente, o que torna a atualização de versão de bibliotecas e dependências muito mais fácil.
 
 
-![image](https://user-images.githubusercontent.com/106537496/235810774-48ad8b80-2e69-4075-a711-404195d79b08.png)
+
 
 
 
@@ -68,6 +68,9 @@ GET ONE - Retorna URI/Pariking-Spot/{id}
 PUT - Atualiza as informações da vaga de estacionamento caso mude de carro ou apartamento
 
 DELETE - Apaga caso ocorreu algum erro de informação
+
+
+![image](https://user-images.githubusercontent.com/106537496/235810774-48ad8b80-2e69-4075-a711-404195d79b08.png)
 
 
 Projeto foi denvolvido Michele Brito estou utilizando para estudo na API REST com Spring Boot.
